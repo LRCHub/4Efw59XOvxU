@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "駆けろ! スパイダーマン",
+  "base_artist": "ヒデ夕樹",
+  "createdAt": "2026-03-18T12:17:21.340223Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "駆けろ！スパイダーマン",
+      "artist": "アニメタル",
+      "has_synced": true,
+      "path": "select/01_駆けろ!スパイダーマン_アニメタル.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "駆けろ! スパイダーマン",
+      "artist": "ヒデ夕樹",
+      "has_synced": true,
+      "path": "select/02_駆けろ!_スパイダーマン_ヒデ夕樹.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "駆けろ! スパイダーマン",
+      "artist": "アニメタル",
+      "has_synced": true,
+      "path": "select/03_駆けろ!_スパイダーマン_アニメタル.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "駆けろ! スパイダーマン",
+      "artist": "ヒデ夕樹",
+      "has_synced": false,
+      "path": "select/pl_01_駆けろ!_スパイダーマン_ヒデ夕樹.txt"
+    }
+  ]
+}
